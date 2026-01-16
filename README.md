@@ -8,7 +8,7 @@ Based in **Mohali, Punjab, India**, I build and scale backend systems handling m
 - 🔭 I’m currently working at **Shine Dezign Infonet Pvt. Ltd.**
 - 📝 I write about tech at **[HeyGeeks.in](https://heygeeks.in)**
 - 💬 Ask me about **Laravel, Redis, System Design, and Query Optimization.**
-- 📫 Reach me at: **mohitky2018@gmail.com**
+- 📫 Reach me at: **mohit@heygeeks.in**
 
 ---
 
